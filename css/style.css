@@ -538,7 +538,8 @@ footer {
       width: 100%; }
       .two-block .column .img {
         max-width: 300px;
-        margin: auto; }
+        margin: auto;
+        margin-left: 20px; }
       .two-block .column .text {
         padding-right: 0; }
         .two-block .column .text h2 {
